@@ -1,0 +1,8 @@
+{
+  "name": "Smart Study AI Hub",
+  "description": "An all-in-one AI study platform that generates unit-based PPTs, podcasts, and videos from textbooks, featuring digital note-taking and smart wrong-answer management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
